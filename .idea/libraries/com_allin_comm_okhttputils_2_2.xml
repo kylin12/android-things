@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.allin.comm:okhttputils-2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okhttputils-2.2.aar/880a3047b021a5f0dffa47dd60072630/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okhttputils-2.2.aar/880a3047b021a5f0dffa47dd60072630/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.allin.comm/okhttputils/2.2/4e2aa99d9656cb01e925f5337847b6de685ff75/okhttputils-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
